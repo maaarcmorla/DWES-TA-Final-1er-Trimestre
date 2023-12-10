@@ -87,7 +87,6 @@ Juntament amb el nom de l'usuari que hem creat
 
 ### 💡 ***Conclusió amb el projecte:***
     Personalment aquest treball m'ha ajudat molt, tant per aprendre, com per saber com treballar amb la pressió d'haver-lo d'entregar un dia en concret.
-
     
     Escriure aquest manual d'instal·lació m'ha costat pel fet que no sabia exactament quantes coses ficar. Tot i així pens que ho he pogut escriure el més dinàmic possible.
 
